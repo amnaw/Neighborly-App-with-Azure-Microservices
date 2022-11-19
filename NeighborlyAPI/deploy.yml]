@@ -1,0 +1,9 @@
+Running 'docker build -t amnacontainer112.azurecr.io/amnafunctionapp112:latest C:\Users\amina\downloads\az-nd\nd081-c2-Building-and-deploying-cloud-native-applications-from-scratch-project-starter\NeighborlyAPI'.......done
+secret/amnafunctionapp112 unchanged
+secret/func-keys-kube-secret-amnafunctionapp112 configured
+serviceaccount/amnafunctionapp112-function-keys-identity-svc-act unchanged
+role.rbac.authorization.k8s.io/functions-keys-manager-role unchanged
+rolebinding.rbac.authorization.k8s.io/amnafunctionapp112-function-keys-identity-svc-act-functions-keys-manager-rolebinding unchanged
+service/amnafunctionapp112-http unchanged
+deployment.apps/amnafunctionapp112-http configured
+deployment.apps/amnafunctionapp112 configured
